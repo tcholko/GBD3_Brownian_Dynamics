@@ -10,7 +10,7 @@ The features I've contributed to the program include:
 - Ability to use multiple ligand-receptor binding conditions which must be met either separately or simultaneously
 - A feature to save all ligand coordinates and trajectory timers, allowing simulations to be stopped and restarted
   at any time. This makes it much more convenient to achieve converged simulation results in cases where many hundreds 
-  of hours of wall-time on high-performace clusters may be needed
+  of hours of wall-time (i.e., much more than can be requested) on high-performace clusters may be needed
 - Improved electrostatic and Lennard-Jones grid shape calculation
 - Scripts to analyze several system properties e.g., diffusion coefficients, non-bonded interaction energy calculation, binding pathway
   analysis, ligand residence times, etc.
