@@ -12,5 +12,5 @@ The features I've contributed to the program include:
   at any time. This makes it much more convenient to achieve converged simulation results in cases where many hundreds 
   of hours of wall-time on high-performace clusters may be needed
 - Improved electrostatic and Lennard-Jones grid shape calculation
-- Several trajectory analysis scripts e.g., diffusion coefficients, non-bonded interaction energy calculation, binding pathway
+- Scripts to analyze several system properties e.g., diffusion coefficients, non-bonded interaction energy calculation, binding pathway
   analysis, ligand residence times, etc.
